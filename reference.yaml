@@ -2,7 +2,7 @@ inline:
   endpoints:
     - name: "theia"
       public: true
-      targetPort: 3000
+      targetPort: 3100
       attributes:
         protocol: http
         type: ide
@@ -23,7 +23,7 @@ inline:
           path: "/home/theia/.theia"
       mountSources: true
       ports:
-        - exposedPort: 3000
+        - exposedPort: 3100
       memoryLimit: "512M"
       cpuLimit: 1000m
       cpuRequest: 100m

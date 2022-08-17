@@ -1,4 +1,4 @@
-reference: https://raw.githubusercontent.com/Deel96/editor/main/reference.yaml # mandatory
+reference: https://raw.githubusercontent.com/Deel96/editor-testing/main/reference.yaml # mandatory
 override:                                              # optional
   containers:
       - name: theia-ide

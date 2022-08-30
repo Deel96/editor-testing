@@ -3,7 +3,7 @@ metadata:
   name: nodejs-mongodb
   namespace: user1-che
 projects:
-  - name: nodejs-mongodb-sample
+  - name: EMFxNODE
     zip:
       location: 'http://devfile-registry.eclipse-che.svc:8080/resources/v2/nodejs-mongodb-sample.zip'
 components:

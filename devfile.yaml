@@ -1,9 +1,9 @@
 schemaVersion: 2.1.0
 metadata:
-  name: metaEMFxNODE
+  name: metaemfxnode
   namespace: user1-che
 projects:
-  - name: projectEMFxNODE
+  - name: projectemfxnode
     zip:
       location: 'http://devfile-registry.eclipse-che.svc:8080/resources/v2/nodejs-mongodb-sample.zip'
 components:
